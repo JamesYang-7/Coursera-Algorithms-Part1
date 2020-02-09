@@ -1,3 +1,4 @@
+```java
 /*************************************************************************
  *  Compilation:  javac LineSegment.java
  *  Execution:    none
@@ -62,4 +63,4 @@ public class LineSegment {
     }
 
 }
-
+```
