@@ -1,3 +1,4 @@
+```java
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 public class Percolation {
     private final int size;
@@ -90,3 +91,4 @@ public class Percolation {
 //    public static void main(String[] args) {
 //    }
 }
+```
