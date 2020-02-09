@@ -1,3 +1,4 @@
+```java
 import java.util.ArrayList;
 import java.util.Arrays;
 // finds all line segments containing 4 points
@@ -45,3 +46,4 @@ public class BruteCollinearPoints {
         return lineSegmentList.toArray(new LineSegment[0]);
     }           
  }
+```
