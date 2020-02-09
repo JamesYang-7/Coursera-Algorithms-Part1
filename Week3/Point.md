@@ -1,4 +1,4 @@
-
+```java
 /******************************************************************************
  *  Compilation:  javac Point.java
  *  Execution:    java Point
@@ -153,3 +153,4 @@ public class Point implements Comparable<Point> {
         }
     }
 }
+```
